@@ -1,1 +1,1 @@
-# codespace_prac
+# CI/CD Demo Project
